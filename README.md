@@ -25,9 +25,11 @@ https://linktr.ee/tierrybarros
 ### Languages and Tools :
 
 
-<a href="https://www.javascript.com/" target="_blank">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="45" height="45"/>
-</a>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Seucu-Js" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Seucu-HTML" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Seucu-CSS" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
 
 
 <br />
