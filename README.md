@@ -49,6 +49,3 @@ https://linktr.ee/tierrybarros
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tierryhahn&layout=compact&langs_count=7&theme=great-gatsby"/>
 </p>
 
-<p align="center">
-   <a href="https://github.com/tierryhahn/github-readme-activity-graph"><img alt="tierryhahn Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tierryhahn&bg_color=000&color=FFA500&line=FFA500&point=FFA500&hide_border=true" /></a>
-</p>
