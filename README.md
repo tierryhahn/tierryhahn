@@ -44,11 +44,3 @@ https://linktr.ee/tierrybarros
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
 <br>
-        
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=tierryhahn&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tierryhahn&layout=compact&langs_count=7&theme=great-gatsby"/>
-</p>
-
-<p align="center">
-   <a href="https://github.com/tierryhahn/github-readme-activity-graph"><img alt="tierryhahn Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tierryhahn&bg_color=000&color=FFA500&line=FFA500&point=FFA500&hide_border=true" /></a>
-</p>
