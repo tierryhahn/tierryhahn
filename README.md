@@ -15,7 +15,7 @@ https://linktr.ee/tierrybarros
 ---
 
 - 📫 How to reach me tierryhahn@gmail.com
-- ⚡ I'm currently learning Python;
+- ⚡ I'm currently learning Django;
 - 🔭 I'm always looking for new things to learn;
 - 👯 I’m looking to collaborate with other developers;
 - 🥅 2022 Goals: Contribute more to Open Source projects;
