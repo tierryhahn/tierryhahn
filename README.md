@@ -18,7 +18,7 @@ https://linktr.ee/tierrybarros
 - ⚡ I'm currently learning Django;
 - 🔭 I'm always looking for new things to learn;
 - 👯 I’m looking to collaborate with other developers;
-- 🥅 2022 Goals: Contribute more to Open Source projects;
+- 🥅 2023 Goals: Contribute more to Open Source projects;
 
 
 
