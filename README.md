@@ -39,6 +39,7 @@ https://linktr.ee/tierrybarros
 
 
 <br />
+ 
 [facebook]: https://www.facebook.com/tierry.barros
 [instagram]: https://www.instagram.com/tierrybarros/
 [linkedin]: https://www.linkedin.com/in/tierry-barros-0013351a4/
@@ -46,4 +47,5 @@ https://linktr.ee/tierrybarros
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+ 
 <br>
