@@ -51,3 +51,5 @@ https://linktr.ee/tierrybarros
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
  
 <br>
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/tierryhahn/tierryhahn/blob/main/devcard.svg" width="250" alt="Tierry Hahn Dev Card"/></a>
