@@ -15,10 +15,10 @@ https://linktr.ee/tierrybarros
 ---
 
 - 📫 How to reach me tierryhahn@gmail.com
-- ⚡ I'm currently learning GraphQL Yoga;
+- ⚡ I'm currently learning Laravel;
 - 🔭 I'm always looking for new things to learn;
 - 👯 I’m looking to collaborate with other developers;
-- 🥅 2023 Goals: Contribute more to Open Source projects;
+- 🥅 2024 Goals: Contribute more to Open Source projects;
 
 
 
