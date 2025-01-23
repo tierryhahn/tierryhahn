@@ -8,7 +8,7 @@
 <a href="https://www.instagram.com/tierrybarros/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
 </div>
  
-### I'm a developer student, i live in Brazil 
+### I'm a full stack developer, i live in Brazil 
 https://linktr.ee/tierrybarros
 
 
@@ -18,7 +18,7 @@ https://linktr.ee/tierrybarros
 - ⚡ I'm currently learning Laravel;
 - 🔭 I'm always looking for new things to learn;
 - 👯 I’m looking to collaborate with other developers;
-- 🥅 2024 Goals: Contribute more to Open Source projects;
+- 🥅 2025 Goals: Contribute more to Open Source projects;
 
 
 
