@@ -15,7 +15,7 @@ https://linktr.ee/tierrybarros
 ---
 
 - 📫 How to reach me tierryhahn@gmail.com
-- ⚡ I'm currently learning Laravel;
+- ⚡ I'm currently learning Next.js;
 - 🔭 I'm always looking for new things to learn;
 - 👯 I’m looking to collaborate with other developers;
 - 🥅 2025 Goals: Contribute more to Open Source projects;
