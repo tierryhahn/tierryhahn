@@ -27,15 +27,14 @@ https://linktr.ee/tierrybarros
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="React" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
   <img align="center" alt="Typescript" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-   Typescript_logo_2020.svg.png">
-  <img align="center" alt="Node" height="45" width="45" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">
-  <img align="center" alt="NestJS" height="45" width="45" src="https://docs.nestjs.com/assets/logo-small.svg">
+  <img align="center" alt="ReactJs" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
+  <img align="center" alt="NextJs" height="45" width="45" src="https://www.cdnlogo.com/logos/n/80/next-js.svg">
+  <img align="center" alt="Node" height="45" width="45" src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png"> 
   <img align="center" alt="Django" height="45" width="45" src="https://icon-library.com/images/django-icon/django-icon-0.jpg">
   <img align="center" alt="PHP" height="45" width="45" src="https://logospng.org/download/php/logo-php-1024.png">
   <img align="center" alt="Laravel" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/985px-Laravel.svg.png">
+  <img align="center" alt="Laravel" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png">
   
 </div>
 
