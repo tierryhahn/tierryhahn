@@ -24,18 +24,10 @@ https://linktr.ee/tierrybarros
 
 ### Languages and Tools :
 
-
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Typescript" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-   Typescript_logo_2020.svg.png">
-  <img align="center" alt="ReactJs" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
-  <img align="center" alt="NextJs" height="45" width="45" src="https://www.cdnlogo.com/logos/n/80/next-js.svg">
-  <img align="center" alt="Node" height="45" width="45" src="https://static-00.iconduck.com/assets.00/node-js-icon-909x1024-ig4gm9k7.png"> 
-  <img align="center" alt="Django" height="45" width="45" src="https://icon-library.com/images/django-icon/django-icon-0.jpg">
-  <img align="center" alt="PHP" height="45" width="45" src="https://logospng.org/download/php/logo-php-1024.png">
-  <img align="center" alt="Laravel" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/985px-Laravel.svg.png">
-  <img align="center" alt="Laravel" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png">
-  
+ <a href="https://skillicons.dev">
+  <img width="250" alt="javscript" src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,django,php,laravel,cs,docker,git&theme=dark"/>
+ </a>
 </div>
 
 
