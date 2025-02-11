@@ -30,7 +30,7 @@ https://linktr.ee/tierrybarros
   <img align="center" alt="Typescript" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-   Typescript_logo_2020.svg.png">
   <img align="center" alt="ReactJs" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
   <img align="center" alt="NextJs" height="45" width="45" src="https://www.cdnlogo.com/logos/n/80/next-js.svg">
-  <img align="center" alt="Node" height="45" width="45" src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png"> 
+  <img align="center" alt="Node" height="45" width="45" src="https://static-00.iconduck.com/assets.00/node-js-icon-909x1024-ig4gm9k7.png"> 
   <img align="center" alt="Django" height="45" width="45" src="https://icon-library.com/images/django-icon/django-icon-0.jpg">
   <img align="center" alt="PHP" height="45" width="45" src="https://logospng.org/download/php/logo-php-1024.png">
   <img align="center" alt="Laravel" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/985px-Laravel.svg.png">
